@@ -1,3 +1,8 @@
+[![Header](https://github.com/NomadPMR/QA-portfolio/blob/master/assets/123.jpg)]
+# Портфолио QA engineer/Тестировщик ПО
+# Приветствую, меня зовут Вячеслав!
+
+
 ## Hi there 👋
 
 <!--
